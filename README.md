@@ -1,8 +1,8 @@
 # Airbnb-Analysis
 
-### **Domain** : **Travel Industry, Property management and Tourism**
-### NAME : SRINIVASAN M
-### BATCH: DW77
+### **DOMAIN** : **Travel Industry, Property management and Tourism**
+### Name : SRINIVASAN M
+### Batch : DW77
 ### Linkedin : https://www.linkedin.com/in/srinivasan-m-754033bb/
 
 ### **Problem Statement :**
