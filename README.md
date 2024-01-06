@@ -1,9 +1,9 @@
 # Airbnb-Analysis
 
 ### **DOMAIN** : **Travel Industry, Property management and Tourism**
-### Name : SRINIVASAN M
-### Batch : DW77
-### Linkedin : https://www.linkedin.com/in/srinivasan-m-754033bb/
+ Name : SRINIVASAN M
+ Batch : DW77
+ Linkedin : https://www.linkedin.com/in/srinivasan-m-754033bb/
 
 ### **Problem Statement :**
   This project aims to analyze Airbnb data using MongoDB Atlas, perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends.
@@ -19,7 +19,7 @@
 ### Workflow :
 
 #### Step 1 :
-  Establish a connection to the MongoDB Atlas database and retrieve the Airbnb dataset. 
+ Establish a connection to the MongoDB Atlas database and retrieve the Airbnb dataset. 
 #### Step 2 : 
   Clean the Airbnb dataset by handling missing values, removing duplicates, and transforming data types as necessary. Prepare the dataset for EDA and visualization tasks, ensuring data integrity and consistency.
 #### Step 3 :
