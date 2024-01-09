@@ -31,7 +31,7 @@ Linkedin : https://www.linkedin.com/in/srinivasan-m-754033bb/
 
 ### Dashboard Pic
 
-![image]()
+![image](https://github.com/SrinivasanM7/Airbnb-Analysis/blob/main/Airbnb%20Analysis.png)
 
 
 #### My other Dashboards : [Take a Look](https://public.tableau.com/app/profile/srinivasan.m4058/vizzes)
